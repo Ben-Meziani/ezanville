@@ -84,11 +84,11 @@
           l&#x27;Aïd al Fitr !
         </div>
         <div class="f-banner-block">
-          <a href="/dons" class="f-banner-button w-button">FAIRE UN DON</a>
+          <a <a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a>
         </div>
         <div class="f-banner-block contact_btn">
           <a
-            href="/contactez-nous-mosquee-de-versailles"
+            href="./contact.php"
             class="f-banner-button contact_btn w-button"
             >Contactez-nous</a
           >
@@ -313,7 +313,7 @@
             class="w-col w-col-4"
           >
             <a
-              href="/dons"
+              href="./don.php""
               class="button dons_btn donsbtn_div button-2 button-3 w-button"
               >FAIRE UN DON</a
             >

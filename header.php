@@ -51,7 +51,7 @@
               class="link_div"
             >
               <a
-                href="/horaires-de-priere-mosquee-de-versailles"
+                href="./prayer.php"
                 class="f-navigation-link w-nav-link"
                 >La Prière</a
               >
@@ -83,7 +83,7 @@
               data-w-id="aba0c08f-dad7-f8b1-7043-715105222e15"
               class="link_div"
             >
-              <a href="/dons" class="f-navigation-link w-nav-link">Dons</a>
+              <a href="./don.php" class="f-navigation-link w-nav-link">Dons</a>
               <div class="hover_line"></div>
             </div>
             <div

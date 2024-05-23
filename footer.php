@@ -27,12 +27,12 @@
               >
               <div class="f-footer-vertical-divider"></div>
               <a
-                href="/contactez-nous-mosquee-de-versailles"
+                href="./contact.php"
                 class="f-footer-link w-inline-block"
                 ><div class="text-block-2">Contactez-nous</div></a
               >
               <div class="f-footer-vertical-divider"></div>
-              <a href="/dons" class="f-footer-link w-inline-block"
+              <a href="./don.php"" class="f-footer-link w-inline-block"
                 ><div class="text-block-3">Faire un don</div></a
               >
             </div>
