@@ -46,7 +46,7 @@
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
             <div class="f-banner-block"><a href="./don.php" aria-current="page" class="f-banner-button w-button w--current">FAIRE UN DON</a></div>
-            <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
+            <div class="f-banner-block contact_btn"><a href="./contact.php" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
     <?php include 'header.php'; ?>

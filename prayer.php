@@ -1,14 +1,14 @@
 <!DOCTYPE html><!-- Last Published: Sun May 12 2024 19:29:33 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="www.mosquee-versailles.fr" data-wf-page="64398744ad1a0671fb95c59d" data-wf-site="641dab129205bc6655ff0661" lang="fr">
+<html data-wf-domain="www.mosquee-Ezanville.fr" data-wf-page="64398744ad1a0671fb95c59d" data-wf-site="641dab129205bc6655ff0661" lang="fr">
 
 <head>
     <meta charset="utf-8" />
-    <title>La Prière | Mosquée de Versailles</title>
-    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Versailles, les différents types de prières et leurs horaires." name="description" />
-    <meta content="La Prière | Mosquée de Versailles" property="og:title" />
-    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Versailles, les différents types de prières et leurs horaires." property="og:description" />
-    <meta content="La Prière | Mosquée de Versailles" property="twitter:title" />
-    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Versailles, les différents types de prières et leurs horaires." property="twitter:description" />
+    <title>La Prière | Mosquée de Ezanville</title>
+    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Ezanville, les différents types de prières et leurs horaires." name="description" />
+    <meta content="La Prière | Mosquée de Ezanville" property="og:title" />
+    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Ezanville, les différents types de prières et leurs horaires." property="og:description" />
+    <meta content="La Prière | Mosquée de Ezanville" property="twitter:title" />
+    <meta content="Découvrez la pratique de la prière musulmane avec la Mosquée de Ezanville, les différents types de prières et leurs horaires." property="twitter:description" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
@@ -46,7 +46,7 @@
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
             <div class="f-banner-block"><a href="./don.php"" class="f-banner-button w-button">FAIRE UN DON</a></div>
-            <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
+            <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-Ezanville" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
 <?php include 'header.php'; ?>
@@ -62,8 +62,8 @@
             <div class="div-block prieres">
                 <div class="columns-3 w-row">
                     <div class="col-priere w-col w-col-5 w-col-stack w-col-small-small-stack w-col-tiny-tiny-stack">
-                        <h1 class="rl-heading-style-h4 priere tit-maw">Horaires de prières de la Mosquée de Versailles</h1>
-                        <div data-w-id="e448c7a5-465a-c041-f361-5fb4fefd67a2" style="opacity:0" class="html-embed-3 w-embed w-iframe"><iframe loading="lazy" src="https://mawaqit.net/fr/w/mosquee-de-versailles-versailles-78000-france?showOnly5PrayerTimes=0" frameborder="0" scrolling="no" width="100%" height="100%" class="widget entered lazyloaded" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://mawaqit.net/fr/w/mosquee-de-versailles-versailles-78000-france?showOnly5PrayerTimes=0" data-ll-status="loaded"></iframe>
+                        <h1 class="rl-heading-style-h4 priere tit-maw">Horaires de prières de la Mosquée de Ezanville</h1>
+                        <div data-w-id="e448c7a5-465a-c041-f361-5fb4fefd67a2" style="opacity:0" class="html-embed-3 w-embed w-iframe"><iframe loading="lazy" src="https://mawaqit.net/fr/m/acce-ezanville-95460-france?showOnly5PrayerTimes=0" frameborder="0" scrolling="no" width="100%" height="100%" class="widget entered lazyloaded" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://mawaqit.net/fr/m/acce-ezanville-95460-france?showOnly5PrayerTimes=0" data-ll-status="loaded"></iframe>
                             <style>
                                 .widget.entered.lazyloaded {
                                     border-radius: 2px;
