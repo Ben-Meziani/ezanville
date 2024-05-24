@@ -84,7 +84,7 @@
           l&#x27;Aïd al Fitr !
         </div>
         <div class="f-banner-block">
-          <a <a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a>
+          <a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a>
         </div>
         <div class="f-banner-block contact_btn">
           <a
