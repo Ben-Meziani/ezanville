@@ -38,7 +38,7 @@
     <div class="banner">
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
-            <div class="f-banner-block"><a href="/dons" class="f-banner-button w-button">FAIRE UN DON</a></div>
+            <div class="f-banner-block"><a href="../don.php" class="f-banner-button w-button">FAIRE UN DON</a></div>
             <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
@@ -116,7 +116,7 @@
                     <h2 class="heading-3">Vous souhaitez effectuer un don ?</h2>
                     <p class="paragraph-2">Votre don est une contribution essentielle pour nous aider à maintenir notre Mosquée et à continuer de servir au mieux la communauté. Nous vous remercions de votre générosité.</p>
                 </div>
-                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="/dons" class="button dons_btn donsbtn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
+                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="../don.php" class="button dons_btn donsbtn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
             </div>
         </div>
     </div>
