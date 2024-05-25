@@ -29,7 +29,7 @@
               class="link_div"
             >
               <a
-                href="/la-mosquee-presentation-de-lassociation-et-de-ses-partenaires"
+                href="./our-mosquee.php"
                 class="f-navigation-link w-nav-link"
                 >La Mosquée</a
               >
@@ -40,7 +40,7 @@
               class="link_div"
             >
               <a
-                href="/activites-les-activites-de-la-mosquee"
+                href="./activities.php"
                 class="f-navigation-link w-nav-link"
                 >Activités</a
               >
@@ -73,7 +73,7 @@
               class="link_div"
             >
               <a
-                href="/toutes-les-actualites-de-lassociation"
+                href="./actualities/actualities.php"
                 class="f-navigation-link w-nav-link"
                 >Actualités</a
               >

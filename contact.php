@@ -93,7 +93,7 @@
                                                             <path d="M12.0001 2C8.00613 2 4.75684 5.2493 4.75684 9.2432C4.75684 14.1998 11.2388 21.4763 11.5148 21.7836C11.774 22.0723 12.2266 22.0718 12.4854 21.7836C12.7613 21.4763 19.2433 14.1998 19.2433 9.2432C19.2432 5.2493 15.994 2 12.0001 2ZM12.0001 12.8875C9.99062 12.8875 8.35586 11.2527 8.35586 9.2432C8.35586 7.23375 9.99066 5.59898 12.0001 5.59898C14.0095 5.59898 15.6443 7.23379 15.6443 9.24324C15.6443 11.2527 14.0095 12.8875 12.0001 12.8875Z" fill="currentColor" />
                                                         </svg></div>
                                                 </div>
-                                                <div class="rl-text-style-regular-4">31 rue Jean Mermoz, 78000 Versailles</div>
+                                                <div class="rl-text-style-regular-4">12 rue Paul Fort, 95460 Ezanville</div>
                                             </div><a id="w-node-_3ae55db8-7d9d-fcf9-429d-c5be046874b9-adae0da9" href="https://www.facebook.com/MosqueeVersailles" target="_blank" class="f-button-facebook-icon w-inline-block">
                                                 <div class="f-button-icon w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M13.6663 13.2498H15.7497L16.583 9.9165H13.6663V8.24984C13.6663 7.3915 13.6663 6.58317 15.333 6.58317H16.583V3.78317C16.3113 3.74734 15.2855 3.6665 14.2022 3.6665C11.9397 3.6665 10.333 5.04734 10.333 7.58317V9.9165H7.83301V13.2498H10.333V20.3332H13.6663V13.2498Z" fill="white" />
