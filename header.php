@@ -73,7 +73,7 @@
               class="link_div"
             >
               <a
-                href="./actualities/actualities.php"
+                href="./actualities.php"
                 class="f-navigation-link w-nav-link"
                 >Actualités</a
               >

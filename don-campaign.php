@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <title>Mosquée de Versailles</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="../site-mosquee.css" rel="stylesheet" type="text/css" />
+    <link href="./site-mosquee.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -38,11 +38,11 @@
     <div class="banner">
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
-            <div class="f-banner-block"><a href="../don.php" class="f-banner-button w-button">FAIRE UN DON</a></div>
+            <div class="f-banner-block"><a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a></div>
             <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
-    <?php include('../header.php'); ?>
+    <?php include('./header.php'); ?>
     <div class="section_title">
         <div class="container-3 w-container">
             <div class="div-block-2">
@@ -116,11 +116,11 @@
                     <h2 class="heading-3">Vous souhaitez effectuer un don ?</h2>
                     <p class="paragraph-2">Votre don est une contribution essentielle pour nous aider à maintenir notre Mosquée et à continuer de servir au mieux la communauté. Nous vous remercions de votre générosité.</p>
                 </div>
-                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="../don.php" class="button dons_btn donsbtn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
+                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="./don.php" class="button dons_btn donsbtn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
             </div>
         </div>
     </div>
-<?php include('../footer.php'); ?>
+<?php include('./footer.php'); ?>
 </body>
 
 </html>

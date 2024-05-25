@@ -7,7 +7,7 @@
     <meta content="Toutes les actualités de l&#x27;association" property="og:title" />
     <meta content="Toutes les actualités de l&#x27;association" property="twitter:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="../site-mosquee.css" rel="stylesheet" type="text/css" />
+    <link href="./site-mosquee.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -40,11 +40,11 @@
     <div class="banner">
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
-            <div class="f-banner-block"><a href="/../don.php" class="f-banner-button w-button">FAIRE UN DON</a></div>
-            <div class="f-banner-block contact_btn"><a href="../contact" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
+            <div class="f-banner-block"><a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a></div>
+            <div class="f-banner-block contact_btn"><a href="./contact" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
-    <?php include('../header.php'); ?>
+    <?php include('./header.php'); ?>
     <div class="section_title">
         <div class="container-3 w-container">
             <div class="div-block-2">
@@ -65,18 +65,18 @@
                             <div role="list" class="rl_blog5_list page_actus_list w-dyn-items w-row">
                                 <div role="listitem" class="rl_blog5_item paceactus_itm w-dyn-item w-col w-col-6">
                                     <div class="rl_blog5_item page_actus_item"><a href="./don-campaign.php" class="rl_blog5_image-link w-inline-block">
-                                            <div class="rl_blog5_image-wrapper"><img src="https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_../don.php_en_ligne.jpg" loading="lazy" alt="Campagne de ../don.php" sizes="(max-width: 479px) 92vw, (max-width: 767px) 85vw, (max-width: 991px) 41vw, (max-width: 1439px) 42vw, 600px" srcset="https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_../don.php_en_ligne-p-500.jpg 500w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_../don.php_en_ligne-p-800.jpg 800w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_../don.php_en_ligne-p-1080.jpg 1080w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_../don.php_en_ligne.jpg 1140w" class="rl_blog5_image" /></div>
+                                            <div class="rl_blog5_image-wrapper"><img src="https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_dons_en_ligne.jpg" loading="lazy" alt="Campagne de dons" sizes="(max-width: 479px) 92vw, (max-width: 767px) 85vw, (max-width: 991px) 41vw, (max-width: 1439px) 42vw, 600px" srcset="https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_dons_en_ligne.jpg 500w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_dons_en_ligne-p-800.jpg 800w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_dons_en_ligne-p-1080.jpg 1080w, https://assets-global.website-files.com/642b59c7d4d87f6eac89ee8b/6432e3f3f49a323c3b7558bf_dons_en_ligne.jpg 1140w" class="rl_blog5_image" /></div>
                                         </a>
                                         <div class="rl_blog5_spacing-block-9"></div><a href="#" class="rl_blog5_category-link w-inline-block">
                                             <div class="text-block-6">Actualité du </div>
                                             <div class="rl_blog5_category-text">4/4/2023</div>
                                         </a>
                                         <div class="rl_blog5_spacing-block-10"></div><a href="#" class="rl_blog3_title-link w-inline-block">
-                                            <h3 class="rl-heading-style-h5">Campagne de ../don.php</h3>
+                                            <h3 class="rl-heading-style-h5">Campagne de dons</h3>
                                         </a>
                                         <div class="rl_blog5_spacing-block-11"></div>
                                         <div class="rich-text-block-3 w-richtext">
-                                            <p>Campagne de ../don.php en ligne</p>
+                                            <p>Campagne de dons en ligne</p>
                                         </div>
                                         <div class="rl_blog5_spacing-block-12"></div>
                                     </div>
@@ -89,18 +89,18 @@
             </div>
         </div>
     </section>
-    <div class="../don.php">
+    <div class="dons">
         <div class="container-4 w-container">
             <div class="columns w-row">
                 <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f775" class="column-2 w-col w-col-8">
                     <h2 class="heading-3">Vous souhaitez effectuer un don ?</h2>
                     <p class="paragraph-2">Votre don est une contribution essentielle pour nous aider à maintenir notre Mosquée et à continuer de servir au mieux la communauté. Nous vous remercions de votre générosité.</p>
                 </div>
-                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="/../don.php" class="button ../don.php_btn ../don.phpbtn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
+                <div data-w-id="b47282f2-d6cd-8217-e415-f93b02f2f77a" class="w-col w-col-4"><a href="./don.php" class="button don_btn_div button-2 button-3 w-button">FAIRE UN DON</a></div>
             </div>
         </div>
     </div>
-    <?php include '../footer.php'; ?>
+    <?php include './footer.php'; ?>
 </body>
 
 </html>
