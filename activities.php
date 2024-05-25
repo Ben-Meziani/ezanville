@@ -46,7 +46,7 @@
         <div class="f-banner-container-between">
             <div class="f-paragraph-regular p-banner"></div>
             <div class="f-banner-block"><a href="/dons" class="f-banner-button w-button">FAIRE UN DON</a></div>
-            <div class="f-banner-block contact_btn"><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
+            <div class="f-banner-block contact_btn"><a href="./contact.php" class="f-banner-button contact_btn w-button">Contactez-nous</a></div>
         </div>
     </div>
     <?php include('header.php'); ?>
@@ -108,7 +108,7 @@
                                         <div class="rl_layout242_spacing-block-3"></div>
                                         <p class="rl-text-style-regular-5 activites">Pendant le mois sacré du Ramadan, la mosquée de Versailles organise des Iftars, c&#x27;est-à-dire des repas de rupture du jeûne en commun. Ces moments de partage et de convivialité sont l&#x27;occasion de renforcer les liens entre les membres de la communauté musulmane.</p>
                                     </div>
-                                </div><a href="/contactez-nous-mosquee-de-versailles" class="f-banner-button-2 activites second w-button">Contactez-nous pour toute demande d&#x27;informations</a>
+                                </div><a href="./contact.php" class="f-banner-button-2 activites second w-button">Contactez-nous pour toute demande d&#x27;informations</a>
                             </div>
                         </div>
                     </div>
