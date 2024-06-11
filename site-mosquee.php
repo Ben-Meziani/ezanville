@@ -77,7 +77,6 @@
     ></script>
   </head>
   <body class="body home">
-    
     <?php include('header.php'); ?>
     <div class="hero hero-home">
       <div class="container1 hero">
