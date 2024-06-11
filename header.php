@@ -1,4 +1,18 @@
 
+  <div class="banner">
+      <div class="f-banner-container-between">
+        <div class="f-banner-block">
+          <a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a>
+        </div>
+        <div class="f-banner-block contact_btn">
+          <a
+            href="./contact.php"
+            class="f-banner-button contact_btn w-button"
+            >Contactez-nous</a
+          >
+        </div>
+      </div>
+    </div>
     <div class="nav">
       <div
         data-animation="default"

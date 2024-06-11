@@ -77,24 +77,7 @@
     ></script>
   </head>
   <body class="body home">
-    <div class="banner">
-      <div class="f-banner-container-between">
-        <div class="f-paragraph-regular p-banner">
-          La mosquée de Ezanville vous souhaite une excellente fête de
-          l&#x27;Aïd al Fitr !
-        </div>
-        <div class="f-banner-block">
-          <a href="./don.php" class="f-banner-button w-button">FAIRE UN DON</a>
-        </div>
-        <div class="f-banner-block contact_btn">
-          <a
-            href="./contact.php"
-            class="f-banner-button contact_btn w-button"
-            >Contactez-nous</a
-          >
-        </div>
-      </div>
-    </div>
+    
     <?php include('header.php'); ?>
     <div class="hero hero-home">
       <div class="container1 hero">
@@ -313,7 +296,7 @@
             class="w-col w-col-4"
           >
             <a
-              href="./don.php""
+              href="./don.php"
               class="button dons_btn donsbtn_div button-2 button-3 w-button"
               >FAIRE UN DON</a
             >

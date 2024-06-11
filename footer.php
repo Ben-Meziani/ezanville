@@ -32,7 +32,7 @@
                 ><div class="text-block-2">Contactez-nous</div></a
               >
               <div class="f-footer-vertical-divider"></div>
-              <a href="./don.php"" class="f-footer-link w-inline-block"
+              <a href="./don.php" class="f-footer-link w-inline-block"
                 ><div class="text-block-3">Faire un don</div></a
               >
             </div>
@@ -58,7 +58,7 @@
             </div>
           </div>
           <p class="f-footer-detail">
-            ©2023 Association des Musulmans de Ezanville | Tous droits réservés
+            ©<?= date('Y'); ?> Association des Musulmans de Ezanville | Tous droits réservés
           </p>
         </div>
       </div>
