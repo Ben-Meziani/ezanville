@@ -36,6 +36,7 @@
     <style>
         .no-scroll {
             overflow: hidden;
+            
         }
     </style><!-- Finsweet Cookie Consent -->
     <script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="opt-in"></script>

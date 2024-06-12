@@ -31,7 +31,7 @@
             aria-current="page"
             class="f-navigation-logo-link-mobile w-inline-block w--current"
             ><img
-              src="http://4.bp.blogspot.com/-VA_5J2sPup8/VtMOzG2eoRI/AAAAAAAAEDQ/0GZszv7R2vw/s1600-r/logo%2Bacce.png"
+              src="ACECE_logotype(PDF)-1.png"
               loading="lazy"
               width="48"
               alt=""
@@ -76,7 +76,7 @@
               aria-current="page"
               class="f-navigation-logo-link-middle w-inline-block w--current"
               ><img
-                src="http://4.bp.blogspot.com/-VA_5J2sPup8/VtMOzG2eoRI/AAAAAAAAEDQ/0GZszv7R2vw/s1600-r/logo%2Bacce.png"
+                src="ACECE_logotype(PDF)-1.png"
                 loading="lazy"
                 width="130"
                 alt=""

@@ -2,16 +2,18 @@
       <div class="f-container-large">
         <div class="f-footer-bottom">
           <div class="f-footer-brand">
-            <a
+            <!-- <a
               href="/"
               aria-current="page"
               class="f-footer-logo-mark w-inline-block w--current"
-              ><img
-                src="http://4.bp.blogspot.com/-VA_5J2sPup8/VtMOzG2eoRI/AAAAAAAAEDQ/0GZszv7R2vw/s1600-r/logo%2Bacce.png"
+              > -->
+              <img
+                src="ACECE_logotype(PDF)-1.png"
                 loading="lazy"
                 alt=""
-                class="f-footer-logo-xs"
-            /></a>
+                width="130"
+            />
+          <!-- </a> -->
           </div>
           <div class="f-footer-group">
             <div
